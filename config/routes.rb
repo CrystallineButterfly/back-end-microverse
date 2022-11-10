@@ -6,4 +6,4 @@ Rails.application.routes.draw do
   end
 end
 
-# Path: localhost:3000/api/v1/greeting
+# Path: localhost:3004/api/v1/greeting
