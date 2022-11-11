@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 Rails.application.routes.draw do
   namespace :api do
     namespace :v1 do
@@ -6,4 +8,4 @@ Rails.application.routes.draw do
   end
 end
 
-# Path: localhost:3000/api/v1/greeting
+# Path: localhost:3004/api/v1/greeting
